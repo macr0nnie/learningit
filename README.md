@@ -10,3 +10,6 @@ Basic Git Commands:
     git commit -m "message": Commit changes
     git push: Upload local changes to remote
     git pull: Download remote changes to local
+
+Resources
+https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/
